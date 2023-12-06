@@ -15,7 +15,7 @@ body {
 }
 
 body {
-  background-color: #f3f2f2;
+  background-color: #f3f2f2b5;
 }
 
 /* width */
@@ -79,7 +79,7 @@ a.text-orange:hover {
 }
 
 .bg-orange {
-  background: #fd7e14 !important;
+  background: #fd7d1498 !important;
 }
 
 .bg-error {
@@ -105,7 +105,7 @@ a.text-orange:hover {
 }
 
 .blue-text {
-  color: #2196f3 !important;
+  color: #2195f338 !important;
 }
 
 .bg-gray {
